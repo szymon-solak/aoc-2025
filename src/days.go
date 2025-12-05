@@ -11,6 +11,7 @@ func GetDays() map[int]Day {
 		2: {Part1: Day2Part1, Part2: Day2Part2},
 		3: {Part1: Day3Part1, Part2: Day3Part2},
 		4: {Part1: Day4Part1, Part2: Day4Part2},
+		5: {Part1: Day5Part1, Part2: Day5Part2},
 	}
 
 	return days
